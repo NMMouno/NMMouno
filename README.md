@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Nasirul Mumenin</h1>
 <h3 align="center">A passionate programmer and AI enthusiast.</h3>
 
-<p align="left"> <img src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" alt="nmmouno" /> </p>
-
 - 🔭 I’m currently working on **Diagnosis of Autism Spectrum Disorder using AI**
 
 - 📫 How to reach me **nasirul@bauet.ac.bd**
