@@ -57,6 +57,32 @@ Exploration of screenshot-based behavioral sequences for understanding **how you
 
 Applied research exploring **webcam-based gaze estimation**, visual attention patterns, and human-computer interaction, with an interest in accessible, low-cost data collection and responsible evaluation.
 
+## 📝 Academic Service & Peer Review
+
+I actively contribute to the academic research community as a peer reviewer for international journals in artificial intelligence, machine learning, healthcare informatics, and interdisciplinary research.
+
+**Selected Journals:**
+- **ACM Transactions on Computing for Healthcare** — ACM
+- **Scientific Reports** — Springer Nature (14 manuscripts reviewed)
+- **IEEE Access** — IEEE
+- **Artificial Intelligence Review** — Springer Nature
+- **Journal of Healthcare Informatics Research** — Springer Nature
+- **Brain Informatics** — Springer Nature
+- **BMC Public Health** — Springer Nature (2 manuscripts reviewed)
+- **Discover Artificial Intelligence** — Springer Nature (5 manuscripts reviewed)
+- **Discover Mental Health** — Springer Nature (3 manuscripts reviewed)
+- **Discover Psychology** — Springer Nature
+- **Discover Applied Sciences** — Springer Nature (3 manuscripts reviewed)
+- **Discover Public Health** — Springer Nature
+- **Cluster Computing** — Springer Nature
+- **Journal of Ambient Intelligence and Humanized Computing** — Springer Nature
+- **Discover Computing** — Springer Nature
+- **Humanities and Social Sciences Communications** — Springer Nature
+
+**Reviewing activity:** At least **36 completed manuscript reviews across 14 Springer Nature journals**, based on reviewing certificates through October 2026, in addition to reviewing activities for ACM and IEEE journals.
+
+**Areas of reviewing expertise:** Applied Machine Learning, Healthcare AI, Trustworthy and Explainable AI, Predictive Modeling, and Computational Social Science.
+
 ## Methods and tools
 
 **Programming and data:** Python · SQL · Git · Jupyter · Pandas · NumPy  
